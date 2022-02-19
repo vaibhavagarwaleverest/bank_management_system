@@ -5,10 +5,7 @@ public class Connection {
 	Statement s;
 	public Connection()
 	{
-		try
-		{
-			Class.forName("com.")
-		}
+		
 	}
 	
 
